@@ -51,9 +51,3 @@ react-calculator/
 ├── README.md
 ```
 
-## Contributing
-If you'd like to contribute, please fork the repository and submit a pull request.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
