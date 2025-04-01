@@ -42,11 +42,11 @@ This is a simple calculator built using React that performs basic arithmetic ope
 ```
 react-calculator/
 ├── public/
+│   ├── index.html
 ├── src/
-│   ├── components/
 │   ├── App.js
 │   ├── index.js
-│   ├── styles.css
+│   ├── App.css
 ├── package.json
 ├── README.md
 ```
